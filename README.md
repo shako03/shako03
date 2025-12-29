@@ -9,3 +9,4 @@ TypeScript ✔️
 Angular ✔️
 Bootstrap ✔️
 NodeJS ✔️
+RXJS ✔️
